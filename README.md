@@ -16,4 +16,7 @@ AI-assisted OCR web application for document verification in low-resource rural 
 - Human approval workflow
 
 ## Project Status
-Final-year dissertation project (in development).
+## Project Status
+Currently in the design and research phase (AT3 stage of dissertation process).  
+Implementation will follow after requirements, architecture, and evaluation planning are approved.
+
